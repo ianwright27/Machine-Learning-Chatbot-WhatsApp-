@@ -20,4 +20,4 @@ the arguments:
 EXAMPLE:
 
 	python main.py 88960 nw1tu22ph3jx7kvd ['254xxxxx00']
-	python main.py 88960 nw1tu22ph3jx7kvd ['254xxxxx00', '254xxxxx00', '254xxxxx00']
+	python main.py 88960 nw1tu22ph3jx7kvd ['254xxxxx00', '254xxxxx00', '254xxxxx00']"# AI-Whatsapp-chat" 
