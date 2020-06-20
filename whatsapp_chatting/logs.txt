@@ -1,8 +1,0 @@
-[MAUREEN]
-{"sent":true,"message":"Sent to 254700341622@c.us","id":"true_254700341622@c.us_3EB0B9C6D32BDB0B98B3","queueNumber":9} 
- Unix Timestamp: 1577626439
-
-[TREVOR]
- {"sent":true,"message":"Sent to 254703913906@c.us","id":"true_254703913906@c.us_3EB02929B225FE9AEDF3","queueNumber":10} 
- Unix Timestamp: 1577626636
-

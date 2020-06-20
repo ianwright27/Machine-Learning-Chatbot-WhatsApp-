@@ -1,9 +1,0 @@
-1577652000 => 2040hrs 29th Dec 2019
-5 mins from now
-
-[formula]
-5 min from now = timestamp - 5 * 60 * 1000
-               = 1577652000 - 5 * 60 * 1000
-               = 1577352000
-               (lets see if it will be 2035hrs)
-               [findings]=> []
