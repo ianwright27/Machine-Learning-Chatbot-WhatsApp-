@@ -1,11 +1,11 @@
 #######################################################################
 #
-#      PROJECT GEMINI 
+#
 #         AUTHOR : Ian Wright
 #         github.com/ianwright27
 #         thewian27@gmail.com 
 #
-#      "Stealing the source code doesn't make you the author"
+#      "Happy hacking"
 #
 #######################################################################
 # MyBot
