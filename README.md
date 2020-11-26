@@ -1,8 +1,13 @@
+
+
+### No releases yet
+
+# Machine Learning Chatbot (WhatsApp)
 1) "convos/" directory -> load all your conversational data set here 
                        in the format as the sample datasets already saved there.
 
 2) Get an account from https://api.chat-api.com to get TOKEN and INSTANCE_NUMBER
-
+#### Requires WhatsApp API ofcourse
 3) open a command line window in main directory and run this
 	python main.py INSTANCE_NUMBER TOKEN CONTACT_LIST
 
