@@ -5,7 +5,7 @@
 #         github.com/ianwright27
 #         thewian27@gmail.com 
 #
-#      "Happy hacking"
+#           "Happy hacking"
 #
 #######################################################################
 # MyBot
@@ -38,10 +38,7 @@ try:
 		trainer.train(conv)
 
 
-	# ================  additional libraries for real-app chatting ===============
-	# 
-	# 
-	# 
+	# additional libraries for realtime chatting 
 	import json
 	import requests
 	import time
@@ -73,7 +70,7 @@ try:
 		return messages_to_reply_to
 
 
-	# ================  MAIN LOOP (combines the chat bot and whatsapp api) ===============
+	# ================  chat bot and whatsapp api ===============
 
 	message = "hey, I am bot, hi" # bot's initial message
 
