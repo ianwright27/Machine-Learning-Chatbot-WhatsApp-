@@ -5,6 +5,10 @@ import sys
 def main(PATH):
 	for file_ in os.listdir(PATH):
 		os.system("echo lines=''' > my_lines_.py")
+		# linux and mac
+		if 'posix' in os.name:
+			os.system(f'echo "$(cat {file_})" >> my_lines_.py')
+		# windows
 		os.system(f'type {file_} >> my_lines_.py')
 		os.system("echo ''' >> my_lines.py")
 
